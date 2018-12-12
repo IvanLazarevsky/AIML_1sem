@@ -1,3 +1,4 @@
 mnist_X.npy
 mnist_y.npy
+*.h5
 .ipynb_checkpoints
